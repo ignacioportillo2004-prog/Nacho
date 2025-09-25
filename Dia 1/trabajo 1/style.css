@@ -1,0 +1,26 @@
+body{ 
+    background-color: lightblue;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+.foto{
+    text-align: center;
+}
+.ti{ 
+    text-align: center;
+    desplay:flex;
+}
+.info{
+    text-align: center;
+    desplay:flex;
+} 
+.mision{
+    text-align: center;
+    desplay:flex;
+}
+.mis{
+    text-align: center;
+}

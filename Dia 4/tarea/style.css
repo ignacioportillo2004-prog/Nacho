@@ -1,0 +1,26 @@
+body{ 
+    height: 100vh
+    color: white;
+}
+
+.encabezado{
+    background-color: rgb(221, 61, 61);
+    color: white;
+    height: 30%;;
+}
+.navegacion{
+    background-color: rgb(135, 135, 202);
+    color: white;
+    height: 25%;
+}
+.seccion{
+    background-color: rgb(233, 217, 33);
+    color: white;
+    height: 20%;
+}
+.aside{
+    background-color: rgb(33, 233, 217);
+    color: rgb(117, 109, 109);
+    width: 30%;
+    height: 15%;
+}
